@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=597
+
+Features :
+- HappyDoc opens the current module UML class schema : [CTRL]-h
+- getPythonDoc finds the current class+method name : [CTRL]-j
+- collapsePythonBlock folds a python block : [CTRL]-k
+- putEmptyFunc writes a new commented func : [CTRL]-n
+
+Goodies :
+- Explorer under [F9]
+- Terminal overflow highlighting (80columns)
+
